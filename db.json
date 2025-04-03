@@ -1,8 +1,11 @@
 {
-  "ICImportAPI": {
-    "name": "import"
-  },
-  "ExportInterfaceAPI": {
-    "name": "export"
-  },
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
